@@ -1,4 +1,4 @@
-# learnllama2
+# learn llama2
 
 I tried multiple openai API implementation(eg: [gpt4all](https://github.com/nomic-ai/gpt4all)) for llama2, [llama-cpp-python] provides the best compatiblity with openai API.
 
